@@ -30,7 +30,7 @@ For each model, we evaluate its performance using relevant metrics such as Mean 
 
 ## Contributors
 
-- [Akash C](https://github.com/AkashCharles) - Project Member
+- Akash C (https://github.com/AkashCharles) - Project Member
 
 ## License
 
